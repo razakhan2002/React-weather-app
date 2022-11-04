@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+.bx{
+    font-size: 25px;
+    color: black;;
+
+}
+
+.head{
+    font-size: 50px;
+    color: rgb(0, 0, 0)
+}
+
+.go {
+    color: rgb(196, 22, 22);
+}
+.ans{
+    font-size: 26px;
+    color: black;
+}
